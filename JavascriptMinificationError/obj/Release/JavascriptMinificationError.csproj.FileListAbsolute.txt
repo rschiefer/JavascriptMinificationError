@@ -1,0 +1,11 @@
+c:\users\rschiefer1\documents\visual studio 2010\Projects\JavascriptMinificationError\JavascriptMinificationError\bin\JavascriptMinificationError.dll
+c:\users\rschiefer1\documents\visual studio 2010\Projects\JavascriptMinificationError\JavascriptMinificationError\bin\JavascriptMinificationError.pdb
+c:\users\rschiefer1\documents\visual studio 2010\Projects\JavascriptMinificationError\JavascriptMinificationError\bin\Antlr3.Runtime.dll
+c:\users\rschiefer1\documents\visual studio 2010\Projects\JavascriptMinificationError\JavascriptMinificationError\bin\EntityFramework.dll
+c:\users\rschiefer1\documents\visual studio 2010\Projects\JavascriptMinificationError\JavascriptMinificationError\bin\Microsoft.Web.Infrastructure.dll
+c:\users\rschiefer1\documents\visual studio 2010\Projects\JavascriptMinificationError\JavascriptMinificationError\bin\System.Web.Optimization.dll
+c:\users\rschiefer1\documents\visual studio 2010\Projects\JavascriptMinificationError\JavascriptMinificationError\bin\WebGrease.dll
+c:\users\rschiefer1\documents\visual studio 2010\Projects\JavascriptMinificationError\JavascriptMinificationError\bin\EntityFramework.xml
+c:\users\rschiefer1\documents\visual studio 2010\Projects\JavascriptMinificationError\JavascriptMinificationError\obj\Release\ResolveAssemblyReference.cache
+c:\users\rschiefer1\documents\visual studio 2010\Projects\JavascriptMinificationError\JavascriptMinificationError\obj\Release\JavascriptMinificationError.dll
+c:\users\rschiefer1\documents\visual studio 2010\Projects\JavascriptMinificationError\JavascriptMinificationError\obj\Release\JavascriptMinificationError.pdb
